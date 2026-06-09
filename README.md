@@ -2,7 +2,7 @@
 sistema completo
 
 para poder cadastrar escola e turma é necessaria identifcacao e que no banco de dados em assinantenv3 na tabela identificacao_odonto2, seja assinantenv3 = 1
-
+(você tem que criar registrar o usuario e no banco de dados setar assinantenv3 na tabela identificacao_odonto2 depois de se identificar no registro = 1)
 
 bote na public_html a pasta farolqr
 e a pasta escola
