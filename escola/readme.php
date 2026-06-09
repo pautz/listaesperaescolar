@@ -1,1 +1,1 @@
-deszipe na pasta escola o escola.zip
+descompactei a escola.zip na pasta escola
